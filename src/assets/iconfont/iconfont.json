@@ -1,0 +1,72 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1195794",
+      "name": "图文",
+      "font_class": "tuwen",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "1196941",
+      "name": "menu",
+      "font_class": "menu",
+      "unicode": "e647",
+      "unicode_decimal": 58951
+    },
+    {
+      "icon_id": "3368474",
+      "name": "视频",
+      "font_class": "video",
+      "unicode": "e7a3",
+      "unicode_decimal": 59299
+    },
+    {
+      "icon_id": "5080869",
+      "name": "英雄",
+      "font_class": "yingxiong",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "6650147",
+      "name": "Artifact-英雄",
+      "font_class": "Artifact-yingxiong",
+      "unicode": "e64e",
+      "unicode_decimal": 58958
+    },
+    {
+      "icon_id": "6797933",
+      "name": "Artifact-英雄-small",
+      "font_class": "Artifact-yingxiong-small",
+      "unicode": "e62d",
+      "unicode_decimal": 58925
+    },
+    {
+      "icon_id": "11301337",
+      "name": "英雄",
+      "font_class": "yingxiong1",
+      "unicode": "e845",
+      "unicode_decimal": 59461
+    },
+    {
+      "icon_id": "12016950",
+      "name": "menu",
+      "font_class": "menu1",
+      "unicode": "e832",
+      "unicode_decimal": 59442
+    },
+    {
+      "icon_id": "14318979",
+      "name": "back",
+      "font_class": "fanhuishangyizhang",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    }
+  ]
+}
